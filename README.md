@@ -1,6 +1,4 @@
-# Spotify-Clone-
-🎧 A frontend-only Spotify UI clone built with HTML & CSS — for design practice only.
-
+# Spotify Clone
 
 🎧 Spotify Clone (Frontend)
 
@@ -11,12 +9,12 @@ A frontend-only clone of Spotify's web interface, built using HTML and CSS. This
 
 ✨ Features
 
-Spotify-inspired sidebar with navigation
-Home page with playlists/cards layout
-Bottom music player bar (UI only)
-Responsive design for different screen sizes
-Hover effects and smooth UI interactions
-Dark theme matching Spotify's original design
+1. Spotify-inspired sidebar with navigation
+2. Home page with playlists/cards layout
+3. Bottom music player bar (UI only)
+4. Responsive design for different screen sizes
+5. Hover effects and smooth UI interactions
+6. Dark theme matching Spotify's original design
 
 
 🛠️ Built With
@@ -33,7 +31,7 @@ Just a web browser — no installations needed!
 Installation
 
 1. Clone the repository
-bash   git clone https://github.com/your-username/spotify-clone.git
+bash   git clone https://github.com/Riteshjha-dev/Spotify-Clone-.git
 
 2. Navigate to the project folder
 bash   cd spotify-clone
@@ -47,7 +45,6 @@ That's it — you're ready to explore the UI!
 spotify-clone/
 ├── index.html
 ├── style.css
-├── script.js
 ├── assets/
 │   └── images, icons, etc.
 └── README.md
